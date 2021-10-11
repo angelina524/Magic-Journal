@@ -1,0 +1,2 @@
+(this["webpackJsonpmagic-journal"]=this["webpackJsonpmagic-journal"]||[]).push([[0],{9:function(n,e,t){"use strict";t.r(e);t(1);var c=t(3),r=t.n(c),i=t(0),o=function(){return Object(i.jsx)("div",{children:"123"})};r.a.render(Object(i.jsx)(o,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.3f0c6113.chunk.js.map

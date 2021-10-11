@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Magic-Journal/static/js/main.3f0c6113.chunk.js",
+    "main.js.map": "/Magic-Journal/static/js/main.3f0c6113.chunk.js.map",
+    "runtime-main.js": "/Magic-Journal/static/js/runtime-main.48ec55f2.js",
+    "runtime-main.js.map": "/Magic-Journal/static/js/runtime-main.48ec55f2.js.map",
+    "static/js/2.af6694da.chunk.js": "/Magic-Journal/static/js/2.af6694da.chunk.js",
+    "static/js/2.af6694da.chunk.js.map": "/Magic-Journal/static/js/2.af6694da.chunk.js.map",
+    "index.html": "/Magic-Journal/index.html",
+    "static/js/2.af6694da.chunk.js.LICENSE.txt": "/Magic-Journal/static/js/2.af6694da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48ec55f2.js",
+    "static/js/2.af6694da.chunk.js",
+    "static/js/main.3f0c6113.chunk.js"
+  ]
+}
